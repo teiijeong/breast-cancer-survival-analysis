@@ -1,0 +1,14 @@
+# History & workspace
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Quarto / RMarkdown cache & output
+*_files/
+*_cache/
+.quarto/
+
+# OS
+.DS_Store
+Thumbs.db
