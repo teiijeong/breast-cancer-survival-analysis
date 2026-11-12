@@ -8,5 +8,5 @@
 - `analysis.qmd`: Quarto report summarizing analyses and visualizations
 
 ## Requirements
-- R >= 4.6.1
+- R >= 4.6.2
 - Packages: `survival`, `survminer`, `tidycmprsk`, `tidyverse`, `janitor`
