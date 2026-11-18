@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*_files/
+*_cache/
+.quarto/
+_output/
